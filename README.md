@@ -1,3 +1,3 @@
 # For Your Information
 
-### Cheat ini di re-code oleh saya sendiri, source asli berada di website https://greasyfork.org/
+### This cheat already re-code by me, original source from https://greasyfork.org/
